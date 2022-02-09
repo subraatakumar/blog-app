@@ -1,4 +1,7 @@
 # Blog App
+This project is for beginner react learners. No backend database is used. 4 static posts displaying for demo purpose. You can create a new post but it will be reset again when you refresh the project. You can extend it by adding Firebase or any other technology you know.
+
+## [See it Live](https://subratsir.github.io/blog-app/)
 
 ## [About: Watch Video](https://youtu.be/B4yDe9STgTc)
 
